@@ -1,4 +1,3 @@
-# visual-grounding-dataset
 Visual grounding数据集制作
 =
 ## ReferCOCO数据集
